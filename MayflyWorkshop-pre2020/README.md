@@ -1,0 +1,1 @@
+Examples Arduino sketches used in EnviroDIY Workshops prior to 2020, for use with the Mayfly Data Logger v0.5b boards.  
